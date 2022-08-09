@@ -50,6 +50,4 @@ public class EmployeeController {
         return "employee_list";
     }
 
-
-    //
 }
